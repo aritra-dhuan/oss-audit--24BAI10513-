@@ -11,7 +11,7 @@ Along with the theoretical analysis, the project also includes practical impleme
 ## 👤 Student Details
 
 * **Name:** Aritra Dhuan
-* **Registration Number:** 24BAI10513_
+* **Registration Number:** 24BAI10513
 * **Course:** Open Source Software
 
 ---
